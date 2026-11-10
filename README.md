@@ -1,12 +1,12 @@
 # Petal & Stem
 
-A responsive flower field guide with six flower profiles, seasonal filtering, keyboard-accessible detail dialogs, and expandable care tips.
+A sunny, retro flower field guide with six flower profiles, seasonal filtering, keyboard-accessible detail dialogs, and expandable care tips. Includes an interactive SVG garden with four petal colors, click/tap and keyboard planting, bloom animations, and a reset control.
 
 ## Preview
 
 Open `index.html` in a browser, or run `python3 -m http.server 8000` from this directory and visit http://localhost:8000.
 
-Built with static HTML, CSS, and JavaScript. Google Fonts supplies Italiana and DM Sans. Photos are stored locally, so browsing the flower guide does not rely on an image service.
+Built with static HTML, CSS, and JavaScript. Google Fonts supplies Fraunces and DM Sans. Photos are stored locally, so browsing the flower guide does not rely on an image service.
 
 ## Photography
 
